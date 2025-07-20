@@ -1,3 +1,3 @@
-# Trabalho_WEB_I
+# Trabalho de WEB I
 
-## Trabalho de ADS fazendo um portfolio.
+Trabalho de ADS fazendo um portfolio.
